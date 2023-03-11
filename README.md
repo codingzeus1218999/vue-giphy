@@ -1,4 +1,4 @@
-# vue-giphy
+# vue-giphy 
 
 > Vue.JS Giphy Wrapper
 
